@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30000">Plex</string>
+        
+    <!--Settings-->
+    <string id="30075">Server Information</string>
+    <string id="30070">hostname</string>
+    <string id="30071">port</string>
+</strings>
